@@ -1,4 +1,4 @@
-#Now I want make boxplots for the effect of MM401 on Bic responsive and non-responsive genes.
+#Now I want to make boxplots for the effect of MM401 on Bic responsive and non-responsive genes.
 #Load DEseq2
 library(DESeq2)
 
